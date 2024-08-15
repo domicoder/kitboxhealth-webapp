@@ -1,4 +1,4 @@
-name: Vuetres - Playwright Tests
+name: KitboxHealth - Playwright Tests
 on:
   deployment_status:
 jobs:

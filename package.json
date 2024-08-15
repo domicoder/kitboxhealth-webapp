@@ -1,5 +1,5 @@
 {
-  "name": "vuetres-template",
+  "name": "KitboxHealth",
   "version": "0.0.1",
   "description": "Short description",
   "private": true,
@@ -16,7 +16,7 @@
     "test": "npx playwright test",
     "test:end": "npx playwright test && npx playwright show-report",
     "commitlint": "commitlint --edit",
-    "prepare": "npx husky init",
+    "prepare": "husky",
     "pre-commit": "npx lint-staged",
     "pre-push": "npm run test && npm run build"
   },
@@ -27,6 +27,7 @@
     "js-cookie": "^3.0.5",
     "pinia": "^2.1.7",
     "pinia-plugin-persistedstate": "^3.2.1",
+    "primevue": "^4.0.4",
     "vue": "^3.4.21",
     "vue-i18n": "^9.13.1",
     "vue-router": "^4.3.2"

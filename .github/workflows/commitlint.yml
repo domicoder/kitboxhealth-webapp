@@ -1,4 +1,4 @@
-name: Vuetres - Lint Commit Messages
+name: KitboxHealth - Lint Commit Messages
 on: [pull_request, push]
 
 jobs:
