@@ -46,7 +46,7 @@
 
     .bg-blackhole {
       background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
-        url('@/assets/images/backgrounds/bg-black-hole-vuetres.jpg');
+        url('@/assets/images/backgrounds/bg-black-hole-kitboxhealth.jpg');
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;

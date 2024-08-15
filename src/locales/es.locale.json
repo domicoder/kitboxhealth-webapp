@@ -1,9 +1,9 @@
 {
   "general": {
-    "appNameOnly": "Vuetres",
+    "appNameOnly": "KitboxHealth",
     "owner": "domicoder",
-    "appName": "vuetres-template",
-    "appDescription": "Vue 3 Starter Template",
+    "appName": "KitboxHealth",
+    "appDescription": "Agende una cita fácilmente",
     "accept": "Aceptar",
     "cancel": "Cancelar",
     "Close": "Cerrar",
@@ -26,6 +26,6 @@
   },
   "about": {
     "title": "[Vista de Acerca de]",
-    "description": "{appName} es una plantilla inicial para Vue 3 creada por {owner} para crer aplicaciones rápidamente. Utiliza Vue 3 con Vite, Pinia, Typescript, enrutamiento basado en archivos, i18n, autohospedaje de fuentes web, TailwindCSS, iconos personalizados."
+    "description": "KitboxHealth es una plataforma innovadora dedicada a simplificar el proceso de agendar citas médicas con los doctores de tu preferencia. Creada con la misión de mejorar el acceso a la atención médica, KitboxHealth permite a los usuarios encontrar y reservar citas con profesionales de salud altamente calificados en solo unos pocos clics."
   }
 }

@@ -48,6 +48,6 @@
 
 <style scoped>
   .project-title {
-    color: #64d98a;
+    color: var(--text-primary-color);
   }
 </style>

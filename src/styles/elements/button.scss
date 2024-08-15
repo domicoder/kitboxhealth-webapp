@@ -25,10 +25,10 @@ button.btn-ghost {
 }
 
 button.btn-ghost:hover {
-  border-color: #64d98a;
+  border-color: var(--text-primary-color);
 }
 
 button.btn-ghost:focus,
 button.btn-ghost:focus-visible {
-  outline: 4px auto #64d98a;
+  outline: 4px auto var(--text-primary-color);
 }

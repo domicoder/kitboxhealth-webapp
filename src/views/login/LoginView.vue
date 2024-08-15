@@ -13,8 +13,8 @@
   const handleLogin = async () => {
     try {
       await loginAuth({
-        email: 'vuetres-template@example.com',
-        password: 'vuetres',
+        email: 'admin@kitboxhealth.com',
+        password: 'kitboxhealth-yander',
       });
       // TODO: handle success flow
     } catch (error) {
@@ -25,8 +25,8 @@
     // API Auth response
     const userLogin: UserLogin = {
       id: '1',
-      email: 'vuetres-template@example.com',
-      username: 'vuetres-template',
+      email: 'admin@kitboxhealth.com',
+      username: 'kitboxhealth',
       token: 'token-A4X3-A4X3-A4X3',
       roles: [
         {
@@ -75,7 +75,7 @@
         <div class="flex flex-col items-center justify-center">
           <p>
             <img
-              src="@/assets/images/vuetres-template-logo.svg"
+              src="@/assets/images/kitboxhealth-logo-sq.svg"
               alt="logo"
               width="50"
             />
@@ -113,6 +113,6 @@
   }
 
   .project-title {
-    color: #64d98a;
+    color: var(--text-primary-color);
   }
 </style>

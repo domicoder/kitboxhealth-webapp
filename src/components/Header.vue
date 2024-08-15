@@ -10,7 +10,7 @@
     <div class="flex flex-col items-center justify-center">
       <p>
         <img
-          src="@/assets/images/vuetres-template-logo.svg"
+          src="@/assets/images/kitboxhealth-logo-sq.svg"
           alt="logo"
           width="50"
         />
@@ -29,6 +29,6 @@
 
 <style scoped>
   .project-title {
-    color: #64d98a;
+    color: var(--text-primary-color);
   }
 </style>

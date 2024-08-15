@@ -1,9 +1,9 @@
 {
   "general": {
-    "appNameOnly": "Vuetres",
+    "appNameOnly": "KitboxHealth",
     "owner": "domicoder",
-    "appName": "vuetres-template",
-    "appDescription": "Vue 3 Starter Template",
+    "appName": "KitboxHealth",
+    "appDescription": "Make an appointment easily",
     "accept": "Accept",
     "cancel": "Cancel",
     "Close": "Close",
@@ -26,6 +26,6 @@
   },
   "about": {
     "title": "[About View]",
-    "description": "{appName} is an opinionated Vue 3 starter template made by {owner} for mocking apps quickly. It uses Vue 3 with Vite, Pinia, Typescript, file-based routing, i18n, webfont self-hosting, TailwindCSS for styling, custom icons."
+    "description": "KitboxHealth is an innovative platform dedicated to simplifying the process of scheduling medical appointments with the doctors of your preference. Created with the mission of improving access to healthcare, KitboxHealth allows users to find and book appointments with highly qualified healthcare professionals in just a few clicks."
   }
 }
